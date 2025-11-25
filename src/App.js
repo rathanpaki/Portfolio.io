@@ -36,7 +36,7 @@ const SectionWrapper = ({ children, className }) => {
 
 const Hero = () => (
   <SectionWrapper className="hero-section" id="hero">
-    <h1 className="hero-title">Hey, I'm Paki 🚀</h1>
+    <h1 className="hero-title">Hey, I'm Paki </h1>
     <p className="hero-subtitle">React Developer & Future Software Engineer</p>
     <div className="hero-icons">
       <a
